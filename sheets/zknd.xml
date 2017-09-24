@@ -1,0 +1,14 @@
+<sheet name="ZKND">
+	<entry field="index" type="INT16"/>
+	<entry field="fpkd_index" type="INT16"/>
+	<entry field="unk4" type="INT16"/>
+	<entry field="unk6" type="INT16"/>
+	<entry field="unk8" type="INT8"/>
+	<entry field="unk9" type="INT8"/>
+	<entry field="unkA" type="INT8"/>
+	<entry field="unkB" type="INT8"/>
+	<entry field="unkC" type="INT8"/>
+	<entry field="unkD" type="INT8"/>
+	<entry field="unkE" type="INT8"/>
+	<entry field="unkF" type="INT8"/>
+</sheet>
